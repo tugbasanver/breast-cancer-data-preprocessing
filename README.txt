@@ -1,0 +1,6 @@
+- Final trained models are contained in .mat files titled 'best_model_dt.mat' and 'best_model_rf.mat'
+- 'DT_and_RF_model_testing.m' can be run to test the final trained models.
+- Initial data analysis was performed in 'data_preprocessing.ipynb'
+- All model training and hyperparameter optimisation experiments can be found in 'model_selection_and_training.m'
+- Training file can be found in ML_trainfile.csv
+- Testing file can be found in ML_testfile.csv
